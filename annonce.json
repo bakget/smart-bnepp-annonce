@@ -1,1 +1,7 @@
-{"v":"","msg":""}
+{
+ "v": "V2.0.9",
+ "msg": "Une nouvelle version de l'application est disponible. Téléchargez-là et installez-là.",
+ "apk": "https://github.com/bakget/smart-bnepp-annonce",
+ "zip": "https://github.com/bakget/smart-bnepp-annonce",
+ "date": "2026-11-22"
+}
